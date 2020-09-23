@@ -38,6 +38,8 @@ while True:
     finally:
         print("always executes")
 
+    print("random")
+
    
 
 
